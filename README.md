@@ -48,12 +48,6 @@ Amazon Polarity Dataset
 
 ---
 
-## Training Metrics
-
-![Training Metrics](training_metrics.png)
-
----
-
 ## Sample Predictions
 
 | Review | Prediction |
